@@ -1,4 +1,5 @@
 Python Crash Course - Second Edition
+Python编程，从入门到实践
 ===
 
 A Hands-On, Project-Based Introduction to Programming
