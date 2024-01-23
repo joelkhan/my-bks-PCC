@@ -1,3 +1,4 @@
+# 字典的列表
 # Make an empty list for storing aliens.
 aliens = []
 
@@ -16,3 +17,5 @@ for alien in aliens[:3]:
 for alien in aliens[:5]:
     print(alien)
 print("...")
+
+
