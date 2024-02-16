@@ -1,3 +1,4 @@
+# hank 20240216
 # 演示了一个逻辑上的缩进错误，同时，展示了for循环变量的一些特性
 magicians = ['alice', 'david', 'carolina']
 for magician in magicians: 
