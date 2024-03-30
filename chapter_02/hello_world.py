@@ -1,3 +1,5 @@
+print("hello from ch02~")
+
 message = "Hello Python world!"
 print(message)
 
