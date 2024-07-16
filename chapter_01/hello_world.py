@@ -6,6 +6,7 @@ print("Hello Python world!")
 print("hello, world! ")
 #print("and, good luck~ ")
 
+'''
 # 一个币市的复利计算模型
 print()
 init = 2304     # 初始本金
@@ -27,6 +28,6 @@ for i in range(1, total+1):
         print()
 print('\n365天后，本金：\t' + str(currDay))
 print('本金增长约：\t' + str(round(currDay/init, 2)) + '倍')
-
+'''
 
 
