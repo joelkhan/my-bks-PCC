@@ -9,6 +9,8 @@ import sys
 def getCredFilePath():
     if sys.platform == "darwin":
         credFilePath = "/Users/joel/Downloads/我的/01-炒币/trading-review-432607-fc38cb71b785.json"
+    elif sys.platform == "linux":
+        credFilePath = "/home/joel/PycharmProjects/data/trading-review-432607-7a0667b8b28a.json"
     else:
         credFilePath = None
     return credFilePath
