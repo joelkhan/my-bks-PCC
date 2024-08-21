@@ -6,7 +6,7 @@ logger.remove()
 
 # 0 关闭debug 使用info
 # 1 开启debug
-debugFlag = 0
+debugFlag = 1
 
 # 添加新的日志处理器，设置日志级别和格式
 if debugFlag == 1:

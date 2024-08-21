@@ -53,7 +53,6 @@ def main():
             print("无效的选择，请输入1、2、3或4。")
 
 
-
 if __name__ == '__main__':
     #print("Show Infos: ")
     #print(showQuotes())
@@ -63,10 +62,5 @@ if __name__ == '__main__':
     #print(showQuotes('ETH'))
 
     main()
-
-
-
-
-
 
 
