@@ -278,6 +278,8 @@ def avgPrice(pricingAll):
         return int(round(sum / cntr, 2))
 
 
+
+
 if __name__ == '__main__':
     print("Show Infos: ")
 
