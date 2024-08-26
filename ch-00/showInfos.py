@@ -282,6 +282,7 @@ def avgPrice(pricingAll):
 
 if __name__ == '__main__':
     print("Show Infos: ")
+    print('Try using github desktop.')
 
     # No.1 爬取北京市当天的天气预报， 北京市代码：101010100
     rst1 = spider_weather('101010100', '1')
