@@ -8,6 +8,6 @@ def make_great(magicians):
     return magicians
 
 ourMagicians = ['小刘', '小张', '小李', '老王']
-ourGreaters = make_great(ourMagicians[:])
 show_magicians(ourMagicians)
+ourGreaters = make_great(ourMagicians[:])
 show_magicians(ourGreaters)
